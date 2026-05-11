@@ -1,0 +1,11 @@
+<svg width="640" height="720" viewBox="0 0 640 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="720" rx="44" fill="#E9F9FD"/>
+  <circle cx="320" cy="244" r="118" fill="#A8E6F0"/>
+  <path d="M184 596C184 507.634 255.634 436 344 436H296C384.366 436 456 507.634 456 596V610H184V596Z" fill="#74CCFF"/>
+  <circle cx="320" cy="226" r="86" fill="#F5D2BE"/>
+  <path d="M247 217C247 170.056 285.056 132 332 132H336C382.944 132 421 170.056 421 217V241H247V217Z" fill="#1A1A2E"/>
+  <path d="M257 241H413C406.495 285.923 368.166 320 322 320C275.834 320 237.505 285.923 231 241H257Z" fill="#F0C4AA"/>
+  <path d="M260 451C277.333 468.333 299.667 477 327 477C354.333 477 378.667 468.333 400 451L458 484C498 506 524 546.667 536 606H108C120 546.667 146 506 186 484L260 451Z" fill="#1AACC9"/>
+  <path d="M277 355H367V453C352.333 467.667 335.667 475 317 475C298.333 475 281.667 467.667 267 453L277 355Z" fill="#F5D2BE"/>
+  <text x="320" y="670" text-anchor="middle" fill="#1A1A2E" font-family="DM Sans, Arial, sans-serif" font-size="28" font-weight="700">Kimberly Aspa</text>
+</svg>
